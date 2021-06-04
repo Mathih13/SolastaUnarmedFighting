@@ -1,2 +1,6 @@
-SolastaUnarmedFighting/&FancySkeletonTitle	Fancy Skeleton
-SolastaUnarmedFighting/&FancySkeletonDescription	I'm a fancy skeleton
+SolastaUnarmoredDefense/&ConstitutionTitle Unarmored Defense (Constitution)
+SolastaUnarmoredDefense/&ConstitutionShieldTrueDescription While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your Constitution modifier. You can use a shield and still gain this benefit.
+SolastaUnarmoredDefense/&ConstitutionShieldFalseDescription While you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Constitution modifier.
+SolastaUnarmoredDefense/&WisdomTitle Unarmored Defense (Wisdom)
+SolastaUnarmoredDefense/&WisdomShieldTrueDescription While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your Wisdom modifier. You can use a shield and still gain this benefit.
+SolastaUnarmoredDefense/&WisdomShieldFalseDescription While you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Wisdom modifier.

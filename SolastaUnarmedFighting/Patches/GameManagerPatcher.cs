@@ -10,6 +10,7 @@ namespace SolastaUnarmedFighting.Patches
             internal static void Postfix()
             {
                 Main.ModEntryPoint();
+                
             }
         }
     }
